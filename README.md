@@ -22,9 +22,12 @@ This is just a fun project that uses a set of cloned blur images with randomized
 
 ## A Few Super Mini Math Projects: 
 
-This Markov Chain generator uses a brute force algorithm where, after any set of two words, the program looks for any other instance of those two words, picks one at random, and then takes the next word after that. Then, the program repeats this process with the new next set of two words. The RSA encryption example just demonstrates how two exponentiations can invert each other if they multiply to something $\equiv 1$ mod the euler totient function ($\phi$) of the original base. The process of calculating these keys was more labor intensive (and on paper), but involved finding the inverses of the base with respect to each factor of $\phi$.  
+This Markov Chain generator uses a brute force algorithm where, after any set of two words, the program looks for any other instance of those two words, picks one at random, and then takes the next word after that particular instance. Then, the program repeats this process with the new next set of two words. 
 
 - [Markov Chain Text Generation](https://trinket.io/library/trinkets/ca8aed434407)
+
+The RSA encryption example just demonstrates how two exponentiations can invert each other if they multiply to something $\equiv 1$ mod the euler totient function ($\phi$) of the original base. The process of calculating these keys was more labor intensive (and on paper), but involved finding the inverses of the base with respect to each factor of $\phi$.
+
 - [RSA Encryption Example](https://trinket.io/library/trinkets/2f7ee49b860c)
 
 ## Chain of Springs (Soft Body)
