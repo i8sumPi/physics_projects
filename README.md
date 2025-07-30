@@ -5,7 +5,9 @@ demos for all the projects at some point.
 
 ## Wave Pools
 
-All three of these work using the [wave equation](https://www.feynmanlectures.caltech.edu/I_47.html), which says that the second derivative of the wave height with respect to time is proportional to the second derivative of wave height with respect to position--or, in other words, the acceleration of the wave at a particular point is proportional to the waveform's concavity at that point. In this example, the concavity at a given point is calculated using finite differences, i.e. $(x_{n+1} - x_n) - (x_n - x_{n-1})$, and the program then adjusts the velocity at each point accordingly. One interesting consequence of these programs is they show how this wave equation implies a constant wave speed (in air, this is the speed of sound, and in electromagnetism, this is the speed of light). 
+All three of these work using the [wave equation](https://www.feynmanlectures.caltech.edu/I_47.html), which says that the second derivative of the wave height with respect to time is proportional to the second derivative of wave height with respect to position--or, in other words, the acceleration of the wave at a particular point is proportional to the waveform's concavity at that point. In this example, the concavity at a given point is calculated using finite differences, i.e. $(x_{n+1} - x_n) - (x_n - x_{n-1})$. Then, the program then adjusts the velocity at each point accordingly. 
+
+One interesting these programs show is that the wave equation implies a constant wave speed (in air, this is the speed of sound, and in electromagnetism, this is the speed of light). 
 
 - [Scratch Version](https://scratch.mit.edu/projects/1190895952/)
 
@@ -15,7 +17,7 @@ All three of these work using the [wave equation](https://www.feynmanlectures.ca
 
 ## Smoke Simulator
 
-This is just a fun project that uses a set of cloned blur images with randomized velocities to generate smoke. Different versions can be made to make this look more like a flame. For a more advanced version of this, future steps could be to replace this simpler simulation with a Navier Stokes equation version. 
+This is just a fun project that uses a set of cloned blur images with randomized velocities to generate smoke. Different versions can be made to make this look more like a flame. 
 
 - [Using WoofJS (JavaScript Library)](https://woofjs.com/full.html#drawkira) ([source](https://woofjs.com/create.html#drawkira))
 
@@ -29,16 +31,10 @@ The RSA encryption example just demonstrates how two exponentiations can invert 
 
 - [RSA Encryption Example](https://trinket.io/library/trinkets/2f7ee49b860c)
 
-The code below shows a basic implementation for importing the Word2Vec library into WoofJS for use in any kinds of games. More information in the code! 
+The code below shows a basic implementation for importing the Word2Vec library into WoofJS for use in any kinds of games. More information in the code. 
 
 - [Word2Vec](https://woofjs.com/create.html#word2vec) 
 
-## Chain of Springs (Soft Body)
-
-This program is much simpler than it looks, and all it does is apply a force proportional to $(\text{length}-20)$ to each end of each segment shown here. Next steps would be to extend this simulation to a soft body physics simulator using the same algorithm. 
-
-- [Using WoofJS](https://woofjs.com/full.html#soft-body) ([source](https://woofjs.com/create.html#soft-body))
-- 
 ## Chain of Springs (Soft Body)
 
 This program is much simpler than it looks, and all it does is apply a force proportional to $(\text{length}-20)$ to each end of each segment shown here. Next steps would be to extend this simulation to a soft body physics simulator using the same algorithm. 
