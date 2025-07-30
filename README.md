@@ -38,6 +38,16 @@ The code below shows a basic implementation for importing the Word2Vec library i
 This program is much simpler than it looks, and all it does is apply a force proportional to $(\text{length}-20)$ to each end of each segment shown here. Next steps would be to extend this simulation to a soft body physics simulator using the same algorithm. 
 
 - [Using WoofJS](https://woofjs.com/full.html#soft-body) ([source](https://woofjs.com/create.html#soft-body))
+- 
+## Chain of Springs (Soft Body)
+
+This program is much simpler than it looks, and all it does is apply a force proportional to $(\text{length}-20)$ to each end of each segment shown here. Next steps would be to extend this simulation to a soft body physics simulator using the same algorithm. 
+
+- [Using WoofJS](https://woofjs.com/full.html#soft-body) ([source](https://woofjs.com/create.html#soft-body))
+
+- [Another version as a piece of fabric](https://woofjs.com/create.html#soft-square)
+
+- [Another version as a square](https://woofjs.com/create.html#soft-body-fabric)
 
 # Additional Resources
 
