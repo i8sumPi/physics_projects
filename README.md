@@ -1,8 +1,7 @@
-# Many Mini Physics Projects
+# Many Coding Project Recommendations
 
-Recently I realized that trying out physics projects is a really great and gratifying way to learn programming--and sometimes a lot more simple than it seems! Here are a few of my favorite projects
-from recent moments, roughly in chronological order, with potentially more to come (I'll try to keep this website and its links updated). Note: I'll also try to add images and/or video
-demos for all the projects soon. 
+Recently I realized that trying out physics and math projects is a really great and gratifying way to learn programming--and sometimes a lot more simple than it seems! Here are a few of my favorite projectsfrom recent moments, roughly in chronological order, with potentially more to come (I'll try to keep this website and its links updated). Note: I might also try to add images and/or video
+demos for all the projects at some point. 
 
 ## Wave Pools
 
@@ -29,6 +28,10 @@ This Markov Chain generator uses a brute force algorithm where, after any set of
 The RSA encryption example just demonstrates how two exponentiations can invert each other if they multiply to something $\equiv 1$ mod the euler totient function ($\phi$) of the original base. The process of calculating these keys was more labor intensive (and on paper), but involved finding the inverses of the base with respect to each factor of $\phi$.
 
 - [RSA Encryption Example](https://trinket.io/library/trinkets/2f7ee49b860c)
+
+The code below shows a basic implementation for importing the Word2Vec library into WoofJS for use in any kinds of games. More information in the code! 
+
+- [Word2Vec](https://woofjs.com/create.html#word2vec) 
 
 ## Chain of Springs (Soft Body)
 
