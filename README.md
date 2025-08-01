@@ -47,7 +47,7 @@ This program is much simpler than it looks, and all it does is apply a force pro
 
 ## Satellite Orbits Simulator
 
-This program simulates the orbits of satellites, given the Earth and the Sun as gravitational sources. Generally, the nature is chaotic, but it shows a few patterns: (1) You can see the parabolic orbits around the sun when the earth is far away, and (2) you can very slightly see that some of the most stable orbits in general around the system are near [Lagrange Points](https://science.nasa.gov/solar-system/resources/faq/what-are-lagrange-points/). You can see L4 and L5 the best in this simulation, from what I can tell. 
+This program simulates the orbits of satellites, given the Earth and the Sun as gravitational sources. A few potential observations: (1) The nature is generally chaotic, and orbits with similar starting positions can end up far away from each other, (2) You can sometimes see parabolic orbits around the sun, especially when the Earth is far away, and (3) you can that the oldest orbits sometimes get caught around [Lagrange Points](https://science.nasa.gov/solar-system/resources/faq/what-are-lagrange-points/) ([demo](https://upload.wikimedia.org/wikipedia/commons/d/d0/Lagrangian_points_equipotential.gif)), especially L4 and L5. 
 
 - [Satellite Orbits Simulator](https://woofjs.com/full.html#satellite-simulator)
 
