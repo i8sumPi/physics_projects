@@ -27,7 +27,7 @@ This Markov Chain generator uses a brute force algorithm where, after any set of
 
 - [Markov Chain Text Generation](https://trinket.io/library/trinkets/ca8aed434407)
 
-The RSA encryption example just demonstrates how two exponentiations can invert each other if they multiply to something $\equiv 1$ mod the euler totient function ($\phi$) of the original base. The process of calculating these keys was more labor intensive (and on paper), but involved finding the inverses of the base with respect to each factor of $\phi$.
+The RSA encryption example just demonstrates how two exponentiations can invert each other if they multiply to something $\equiv 1$ mod the Euler totient function ($\phi$) of the original base. The process of calculating these keys was more labor intensive (and on paper), but involved finding the inverses of the base with respect to each factor of $\phi$.
 
 - [RSA Encryption Example](https://trinket.io/library/trinkets/2f7ee49b860c)
 
