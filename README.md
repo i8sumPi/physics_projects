@@ -39,7 +39,7 @@ The code below shows a basic implementation for importing the Word2Vec library i
 
 This program applies force proportional to $(\text{length}-20)$ to each end of each segment shown here, so each segment acts as an ideal Hooke's Law spring. It can make really beautiful results, and show all the wave phenomena discussed above.
 
-Note: A non-linear version of these chains of springs, i.e. where the force is not linearly defined on length, seems to be a topic of [modern research](http://www.scholarpedia.org/article/Fermi-Pasta-Ulam_nonlinear_lattice_oscillations). A fun project could be to simulate a spring with a non-linear force function yourself! 
+Note: A non-linear version of these chains of springs, i.e. where the force is not linearly defined on length, seems to be a topic of [modern research](http://www.scholarpedia.org/article/Fermi-Pasta-Ulam_nonlinear_lattice_oscillations). A fun project could be simulating a spring with a non-linear force function yourself. 
 
 - [Using WoofJS](https://woofjs.com/full.html#soft-body) ([source](https://woofjs.com/create.html#soft-body))
 
