@@ -31,7 +31,7 @@ The RSA encryption example just demonstrates how two exponentiations can invert 
 
 - [RSA Encryption Example](https://trinket.io/library/trinkets/2f7ee49b860c)
 
-The code below shows a basic implementation for importing the Word2Vec library into WoofJS for use in any kinds of games. Note that the cosine similarity can be calculated by dotting two word vectors and then dividing by the product of their magnitudes. More information in the code. 
+The code below shows a basic implementation for importing the Word2Vec library into WoofJS for use in any kinds of games. Note that the cosine similarity can be calculated by dotting two word vectors and then dividing by the product of their magnitudes. More information in the code. [Library used](https://github.com/turbomaze/word2vecjson). 
 
 - [Word2Vec](https://woofjs.com/create.html#word2vec) 
 
