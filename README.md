@@ -19,7 +19,7 @@ One interesting these programs show is that the wave equation implies a constant
 
 This is just a fun project that uses a set of cloned blur images with randomized velocities to generate smoke. Different versions can be made to make this look more like a flame. 
 
-- [Using WoofJS (JavaScript Library)](https://woofjs.com/full.html#drawkira) ([source](https://woofjs.com/create.html#drawkira))
+- [Using WoofJS (JavaScript Library)](https://woofjs.com/full.html#drawkira)
 
 ## A Few Super Mini Math Projects: 
 
@@ -33,7 +33,7 @@ The RSA encryption example just demonstrates how two exponentiations can invert 
 
 The code below shows a basic implementation for importing the Word2Vec library into WoofJS for use in any kinds of games. Note that the cosine similarity can be calculated by dotting two word vectors and then dividing by the product of their magnitudes. More information in the code. [Library used](https://github.com/turbomaze/word2vecjson). 
 
-- [Word2Vec](https://woofjs.com/create.html#word2vec) 
+- [Word2Vec](https://woofjs.com/full.html#word2vec) 
 
 ## Chain of Springs (Soft Body)
 
@@ -41,11 +41,11 @@ This program applies force proportional to $(\text{length}-20)$ to each end of e
 
 Note: A non-linear version of these chains of springs, i.e. where the force is not linearly defined on length, seems to be a topic of [modern research](http://www.scholarpedia.org/article/Fermi-Pasta-Ulam_nonlinear_lattice_oscillations). A fun project could be simulating a spring with a non-linear force function yourself. 
 
-- [Using WoofJS](https://woofjs.com/full.html#soft-body) ([source](https://woofjs.com/create.html#soft-body))
+- [Using WoofJS](https://woofjs.com/full.html#soft-body)
 
 - [Another version as a piece of fabric](https://woofjs.com/create.html#soft-square)
 
-- [Another version as a square](https://woofjs.com/create.html#soft-body-fabric)
+- [Another version as a square](https://woofjs.com/full.html#soft-body-fabric)
 
 ## Satellite Orbits Simulator
 
