@@ -1,7 +1,6 @@
 # Many Coding Project Recommendations
 
-Recently I realized that trying out physics and math projects is a really great and gratifying way to learn programming--and sometimes a lot more simple than it seems! Here are a few of my favorite projectsfrom recent moments, roughly in chronological order, with potentially more to come (I'll try to keep this website and its links updated). Note: I might also try to add images and/or video
-demos for all the projects at some point. 
+Recently I realized that trying out physics and math projects is a really great and gratifying way to learn programming--and sometimes a lot more simple than it seems! Here are a few of my favorite projectsfrom recent moments, roughly in chronological order. 
 
 ## Wave Pools
 
@@ -43,7 +42,7 @@ Note: A non-linear version of these chains of springs, i.e. where the force is n
 
 - [Using WoofJS](https://woofjs.com/full.html#soft-body)
 
-- [Another version as a piece of fabric](https://woofjs.com/create.html#soft-square)
+- [Another version as a piece of fabric](https://woofjs.com/full.html#soft-square)
 
 - [Another version as a square](https://woofjs.com/full.html#soft-body-fabric)
 
