@@ -1,6 +1,6 @@
 # Many Coding Project Recommendations
 
-Recently I realized that trying out physics and math projects is a really great and gratifying way to learn programming--and sometimes a lot more simple than it seems! Here are a few of my favorite projectsfrom recent moments, roughly in chronological order. 
+Recently I realized that trying out physics and math projects is a really great and gratifying way to learn programming--and sometimes a lot more simple than it seems! Here are a few of my favorite projects from this summer, roughly in chronological order. 
 
 ## Wave Pools
 
